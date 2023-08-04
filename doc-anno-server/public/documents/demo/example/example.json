@@ -1,0 +1,9 @@
+{
+  "id": "example",
+  "creator": ["Otto Normalverbraucher"],
+  "title": "Der Titel Ihres Vortrages",
+  "description": "Fachdidaktische Übungen: Stochastik in der Schule",
+  "date": "2010-04-13",
+  "subject": ["Stochastik"],
+  "pages": 2
+}

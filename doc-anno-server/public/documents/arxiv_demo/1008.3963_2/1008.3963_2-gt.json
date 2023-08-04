@@ -1,0 +1,1869 @@
+[
+ {
+  "category": "document",
+  "id": 4655315,
+  "parent": null
+ },
+ {
+  "category": "content_block",
+  "id": 4655534,
+  "parent": 4655315,
+  "properties": {
+   "text": ""
+  }
+ },
+ {
+  "bbox": [
+   83.338203,
+   96.17101500000001,
+   428.599121,
+   9.757978
+  ],
+  "category": "box",
+  "id": 4655535,
+  "page": 0,
+  "parent": 4656557
+ },
+ {
+  "category": "equation",
+  "id": 4655533,
+  "parent": 4655315,
+  "properties": {
+   "latex": "\\begin{equation}\nW = W_{MSSM}  + \\lambda_{ijk} L_i L_j \\bar E_k +\n\\lambda^{'}_{ijk}L_i Q_j \\bar D_k + \\lambda^{''}_{ijk}\\bar U_i\n\\bar D_j \\bar D_k + \\mu^{'}_i L_i H_u \\label{rvl}\n\\end{equation}"
+  }
+ },
+ {
+  "category": "equation_formula",
+  "id": 4656426,
+  "parent": 4655533
+ },
+ {
+  "bbox": [
+   160.097992,
+   122.207143,
+   275.07959,
+   15.060801
+  ],
+  "category": "box",
+  "id": 4655543,
+  "page": 0,
+  "parent": 4656426
+ },
+ {
+  "category": "equation_label",
+  "id": 4656425,
+  "parent": 4655533
+ },
+ {
+  "bbox": [
+   491.035645,
+   125.478922,
+   20.90169,
+   9.348898
+  ],
+  "category": "box",
+  "id": 4655546,
+  "page": 0,
+  "parent": 4656425
+ },
+ {
+  "category": "content_block",
+  "id": 4656429,
+  "parent": 4655315
+ },
+ {
+  "category": "content_line",
+  "id": 4655567,
+  "parent": 4656429,
+  "properties": {
+   "text": "In general, we should consider all R-parity violation terms in Eq."
+  }
+ },
+ {
+  "bbox": [
+   83.338203,
+   154.786868,
+   428.599121,
+   9.757978
+  ],
+  "category": "box",
+  "id": 4655568,
+  "page": 0,
+  "parent": 4655567
+ },
+ {
+  "category": "content_line",
+  "id": 4655571,
+  "parent": 4656429,
+  "properties": {
+   "latex": "\\ref{rvl}"
+  }
+ },
+ {
+  "bbox": [
+   83.338203,
+   169.571009,
+   428.599121,
+   9.878027
+  ],
+  "category": "box",
+  "id": 4655574,
+  "page": 0,
+  "parent": 4655571
+ },
+ {
+  "category": "content_line",
+  "id": 4656395,
+  "parent": 4656429
+ },
+ {
+  "bbox": [
+   83.338203,
+   183.26442400000002,
+   428.599121,
+   11.088802
+  ],
+  "category": "box",
+  "id": 4655588,
+  "page": 0,
+  "parent": 4656395
+ },
+ {
+  "category": "content_line",
+  "id": 4656431,
+  "parent": 4656429
+ },
+ {
+  "bbox": [
+   82.54705141129033,
+   195.7577620967742,
+   169.18709677419355,
+   12.49677419354839
+  ],
+  "category": "box",
+  "id": 4656432,
+  "page": 0,
+  "parent": 4656431
+ },
+ {
+  "category": "table",
+  "id": 4655610,
+  "parent": 4655315,
+  "properties": {
+   "latex": "\\begin{table}[htb] \\begin{center}\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline \\hline DC &  $ \\tau (10^{26} s)$\n & $\\lambda^{'} (10^{ - 25} )$& DR &  $ \\tau (10^{26} s)$\n & $\\lambda^{'} (10^{ - 25} )$\n  \\\\\n\\hline\nA&  4.5 & 3.2 &  A  & 3.9 & 3.4 \\\\\n\\hline\nB&  2.6 & 14.8 &  B  & 2.3 & 15.7 \\\\\n\\hline\nC&  1.7 & 16.1 &  C  & 1.5 & 17.1 \\\\\n\\hline\nD&  1.2 & 59.5 &  D  & 1.1 & 62.1 \\\\\n\\hline\nE&  1.0 & 253.2 &  E  & 0.9 & 266.9 \\\\\n\\hline\nF&  0.6 & 159.7 &  F  & 0.6 & 159.7 \\\\\n\\hline\nG&  0.5 & 156.7 &  G  & 0.5 & 156.7 \\\\\n\\hline \\hline\n\\end{tabular}\n\\caption{Life time $ \\tau $ in unit of $10^{26} s$ and R-parity\nviolation parameter $\\lambda^{'} $ in unit $10^{ - 25} $ for\ndifferent benchmark points. ``DC'' and ``DR'' refer to the two\npropagation models we adopted.\n% \\vspace*{-.1in}\n}\\label{DCDR}\n\\end{center}\n\\end{table}"
+  }
+ },
+ {
+  "category": "tabular",
+  "id": 4655612,
+  "parent": 4655610,
+  "properties": {
+   "latex": "\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline \\hline DC &  $ \\tau (10^{26} s)$\n & $\\lambda^{'} (10^{ - 25} )$& DR &  $ \\tau (10^{26} s)$\n & $\\lambda^{'} (10^{ - 25} )$\n  \\\\\n\\hline\nA&  4.5 & 3.2 &  A  & 3.9 & 3.4 \\\\\n\\hline\nB&  2.6 & 14.8 &  B  & 2.3 & 15.7 \\\\\n\\hline\nC&  1.7 & 16.1 &  C  & 1.5 & 17.1 \\\\\n\\hline\nD&  1.2 & 59.5 &  D  & 1.1 & 62.1 \\\\\n\\hline\nE&  1.0 & 253.2 &  E  & 0.9 & 266.9 \\\\\n\\hline\nF&  0.6 & 159.7 &  F  & 0.6 & 159.7 \\\\\n\\hline\nG&  0.5 & 156.7 &  G  & 0.5 & 156.7 \\\\\n\\hline \\hline\n\\end{tabular}"
+  }
+ },
+ {
+  "category": "table_row",
+  "id": 4656371,
+  "parent": 4655612,
+  "properties": 0,
+  "row_nr": 0
+ },
+ {
+  "bbox": [
+   164.633926,
+   225.90014399999998,
+   265.808408,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656372,
+  "page": 0,
+  "parent": 4656371
+ },
+ {
+  "category": "table_row",
+  "id": 4656355,
+  "parent": 4655612,
+  "properties": 1,
+  "row_nr": 1
+ },
+ {
+  "bbox": [
+   164.833176,
+   241.20284800000002,
+   265.609192,
+   14.904177
+  ],
+  "category": "box",
+  "id": 4655681,
+  "page": 0,
+  "parent": 4656355
+ },
+ {
+  "category": "table_row",
+  "id": 4656357,
+  "parent": 4655612,
+  "properties": 2,
+  "row_nr": 2
+ },
+ {
+  "bbox": [
+   164.833176,
+   256.505491,
+   265.609192,
+   14.904177
+  ],
+  "category": "box",
+  "id": 4655691,
+  "page": 0,
+  "parent": 4656357
+ },
+ {
+  "category": "table_row",
+  "id": 4656359,
+  "parent": 4655612,
+  "properties": 3,
+  "row_nr": 3
+ },
+ {
+  "bbox": [
+   164.833176,
+   271.808195,
+   265.609192,
+   14.904177
+  ],
+  "category": "box",
+  "id": 4655701,
+  "page": 0,
+  "parent": 4656359
+ },
+ {
+  "category": "table_row",
+  "id": 4656361,
+  "parent": 4655612,
+  "properties": 4,
+  "row_nr": 4
+ },
+ {
+  "bbox": [
+   164.833176,
+   287.110899,
+   265.609192,
+   14.904177
+  ],
+  "category": "box",
+  "id": 4655711,
+  "page": 0,
+  "parent": 4656361
+ },
+ {
+  "category": "table_row",
+  "id": 4656363,
+  "parent": 4655612,
+  "properties": 5,
+  "row_nr": 5
+ },
+ {
+  "bbox": [
+   164.833176,
+   302.413542,
+   265.609192,
+   14.904177
+  ],
+  "category": "box",
+  "id": 4655721,
+  "page": 0,
+  "parent": 4656363
+ },
+ {
+  "category": "table_row",
+  "id": 4656365,
+  "parent": 4655612,
+  "properties": 6,
+  "row_nr": 6
+ },
+ {
+  "bbox": [
+   164.833176,
+   317.716215,
+   265.609192,
+   14.904177
+  ],
+  "category": "box",
+  "id": 4655731,
+  "page": 0,
+  "parent": 4656365
+ },
+ {
+  "category": "table_row",
+  "id": 4656433,
+  "parent": 4655612,
+  "properties": 7,
+  "row_nr": 7
+ },
+ {
+  "bbox": [
+   165.2180191532258,
+   333.943245967742,
+   265.3161290322581,
+   13.458064516129014
+  ],
+  "category": "box",
+  "id": 4656434,
+  "page": 0,
+  "parent": 4656433
+ },
+ {
+  "category": "table_col",
+  "col_nr": 5,
+  "id": 4656369,
+  "parent": 4655612,
+  "properties": 5
+ },
+ {
+  "bbox": [
+   374.481049,
+   225.90014399999998,
+   55.961284999999975,
+   121.720248
+  ],
+  "category": "box",
+  "id": 4656370,
+  "page": 0,
+  "parent": 4656369
+ },
+ {
+  "category": "table_col",
+  "col_nr": 0,
+  "id": 4656435,
+  "parent": 4655612,
+  "properties": 0
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   227.72066532258066,
+   25.954838709677432,
+   120.16129032258067
+  ],
+  "category": "box",
+  "id": 4656436,
+  "page": 0,
+  "parent": 4656435
+ },
+ {
+  "category": "table_col",
+  "col_nr": 1,
+  "id": 4656437,
+  "parent": 4655612,
+  "properties": 1
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   227.4803427419355,
+   48.064516129032256,
+   120.16129032258067
+  ],
+  "category": "box",
+  "id": 4656438,
+  "page": 0,
+  "parent": 4656437
+ },
+ {
+  "category": "table_col",
+  "col_nr": 2,
+  "id": 4656439,
+  "parent": 4655612,
+  "properties": 2
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   226.51905241935486,
+   55.754838709677415,
+   121.12258064516129
+  ],
+  "category": "box",
+  "id": 4656440,
+  "page": 0,
+  "parent": 4656439
+ },
+ {
+  "category": "table_col",
+  "col_nr": 3,
+  "id": 4656441,
+  "parent": 4655612,
+  "properties": 3
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   225.44163306451614,
+   26.916129032258027,
+   122.16129032258064
+  ],
+  "category": "box",
+  "id": 4656442,
+  "page": 0,
+  "parent": 4656441
+ },
+ {
+  "category": "table_col",
+  "col_nr": 4,
+  "id": 4656443,
+  "parent": 4655612,
+  "properties": 4
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   226.20131048387097,
+   47.14193548387095,
+   121.20000000000002
+  ],
+  "category": "box",
+  "id": 4656444,
+  "page": 0,
+  "parent": 4656443
+ },
+ {
+  "category": "table_caption",
+  "id": 4655740,
+  "parent": 4655610,
+  "properties": {
+   "latex": "\\caption{Life time $ \\tau $ in unit of $10^{26} s$ and R-parity\nviolation parameter $\\lambda^{'} $ in unit $10^{ - 25} $ for\ndifferent benchmark points. ``DC'' and ``DR'' refer to the two\npropagation models we adopted.\n% \\vspace*{-.1in}\n}"
+  }
+ },
+ {
+  "category": "content_line",
+  "id": 4656367,
+  "parent": 4655740
+ },
+ {
+  "bbox": [
+   83.338203,
+   359.280457,
+   428.599121,
+   11.718902
+  ],
+  "category": "box",
+  "id": 4655754,
+  "page": 0,
+  "parent": 4656367
+ },
+ {
+  "category": "content_line",
+  "id": 4656368,
+  "parent": 4655740
+ },
+ {
+  "bbox": [
+   83.338203,
+   375.23871,
+   428.599121,
+   8.911406
+  ],
+  "category": "box",
+  "id": 4655755,
+  "page": 0,
+  "parent": 4656368
+ },
+ {
+  "category": "content_block",
+  "id": 4656430,
+  "parent": 4655315
+ },
+ {
+  "bbox": [
+   82.54705141129033,
+   413.93195564516134,
+   429.69677419354844,
+   40.3741935483871
+  ],
+  "category": "box",
+  "id": 4656451,
+  "page": 0,
+  "parent": 4656558
+ },
+ {
+  "category": "figure",
+  "id": 4656452,
+  "parent": 4655315
+ },
+ {
+  "category": "figure",
+  "id": 4656453,
+  "parent": 4656452
+ },
+ {
+  "category": "figure_graphic",
+  "id": 4656455,
+  "parent": 4656453
+ },
+ {
+  "bbox": [
+   96.96640625,
+   485.1061491935484,
+   205.71612903225807,
+   156.69032258064522
+  ],
+  "category": "box",
+  "id": 4656457,
+  "page": 0,
+  "parent": 4656455
+ },
+ {
+  "category": "figure",
+  "id": 4656454,
+  "parent": 4656452
+ },
+ {
+  "category": "figure_graphic",
+  "id": 4656456,
+  "parent": 4656454
+ },
+ {
+  "bbox": [
+   329.59866431451616,
+   486.06743951612907,
+   210.52258064516133,
+   155.72903225806454
+  ],
+  "category": "box",
+  "id": 4656458,
+  "page": 0,
+  "parent": 4656456
+ },
+ {
+  "category": "figure_caption",
+  "id": 4656459,
+  "parent": 4656452
+ },
+ {
+  "bbox": [
+   80.62447076612904,
+   674.4803427419355,
+   434.50322580645167,
+   44.219354838709705
+  ],
+  "category": "box",
+  "id": 4656460,
+  "page": 0,
+  "parent": 4656459
+ },
+ {
+  "category": "meta",
+  "id": 4655316,
+  "parent": null
+ },
+ {
+  "category": "head",
+  "id": 4656447,
+  "parent": 4655316
+ },
+ {
+  "bbox": [
+   82.62447076612904,
+   54.00614919354839,
+   177.76129032258063,
+   11.535483870967745
+  ],
+  "category": "box",
+  "id": 4656449,
+  "page": 0,
+  "parent": 4656447
+ },
+ {
+  "category": "head",
+  "id": 4656448,
+  "parent": 4655316
+ },
+ {
+  "bbox": [
+   454.56640625,
+   53.486794354838715,
+   58.63870967741934,
+   11.535483870967745
+  ],
+  "category": "box",
+  "id": 4656450,
+  "page": 0,
+  "parent": 4656448
+ },
+ {
+  "category": "page_nr",
+  "id": 4656445,
+  "parent": 4655316
+ },
+ {
+  "bbox": [
+   292.108341733871,
+   753.2287298387097,
+   11.535483870967767,
+   11.535483870967823
+  ],
+  "category": "box",
+  "id": 4656446,
+  "page": 0,
+  "parent": 4656445
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   0,
+   0
+  ],
+  "id": 4656461,
+  "parent": 4655612,
+  "properties": "0-0,0-0",
+  "row_range": [
+   0,
+   0
+  ]
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   225.90014399999998,
+   25.954838709677432,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656462,
+  "page": 0,
+  "parent": 4656461
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   0,
+   0
+  ],
+  "id": 4656463,
+  "parent": 4655612,
+  "properties": "1-1,0-0",
+  "row_range": [
+   1,
+   1
+  ]
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   241.20284800000002,
+   25.954838709677432,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656464,
+  "page": 0,
+  "parent": 4656463
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   0,
+   0
+  ],
+  "id": 4656465,
+  "parent": 4655612,
+  "properties": "2-2,0-0",
+  "row_range": [
+   2,
+   2
+  ]
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   256.505491,
+   25.954838709677432,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656466,
+  "page": 0,
+  "parent": 4656465
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   0,
+   0
+  ],
+  "id": 4656467,
+  "parent": 4655612,
+  "properties": "3-3,0-0",
+  "row_range": [
+   3,
+   3
+  ]
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   271.808195,
+   25.954838709677432,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656468,
+  "page": 0,
+  "parent": 4656467
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   0,
+   0
+  ],
+  "id": 4656469,
+  "parent": 4655612,
+  "properties": "4-4,0-0",
+  "row_range": [
+   4,
+   4
+  ]
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   287.110899,
+   25.954838709677432,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656470,
+  "page": 0,
+  "parent": 4656469
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   0,
+   0
+  ],
+  "id": 4656471,
+  "parent": 4655612,
+  "properties": "5-5,0-0",
+  "row_range": [
+   5,
+   5
+  ]
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   302.413542,
+   25.954838709677432,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656472,
+  "page": 0,
+  "parent": 4656471
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   0,
+   0
+  ],
+  "id": 4656473,
+  "parent": 4655612,
+  "properties": "6-6,0-0",
+  "row_range": [
+   6,
+   6
+  ]
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   317.716215,
+   25.954838709677432,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656474,
+  "page": 0,
+  "parent": 4656473
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   0,
+   0
+  ],
+  "id": 4656475,
+  "parent": 4655612,
+  "properties": "7-7,0-0",
+  "row_range": [
+   7,
+   7
+  ]
+ },
+ {
+  "bbox": [
+   166.17930947580646,
+   333.943245967742,
+   25.954838709677432,
+   13.458064516129014
+  ],
+  "category": "box",
+  "id": 4656476,
+  "page": 0,
+  "parent": 4656475
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   1,
+   1
+  ],
+  "id": 4656477,
+  "parent": 4655612,
+  "properties": "0-0,1-1",
+  "row_range": [
+   0,
+   0
+  ]
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   225.90014399999998,
+   48.064516129032256,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656478,
+  "page": 0,
+  "parent": 4656477
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   1,
+   1
+  ],
+  "id": 4656479,
+  "parent": 4655612,
+  "properties": "1-1,1-1",
+  "row_range": [
+   1,
+   1
+  ]
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   241.20284800000002,
+   48.064516129032256,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656480,
+  "page": 0,
+  "parent": 4656479
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   1,
+   1
+  ],
+  "id": 4656481,
+  "parent": 4655612,
+  "properties": "2-2,1-1",
+  "row_range": [
+   2,
+   2
+  ]
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   256.505491,
+   48.064516129032256,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656482,
+  "page": 0,
+  "parent": 4656481
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   1,
+   1
+  ],
+  "id": 4656483,
+  "parent": 4655612,
+  "properties": "3-3,1-1",
+  "row_range": [
+   3,
+   3
+  ]
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   271.808195,
+   48.064516129032256,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656484,
+  "page": 0,
+  "parent": 4656483
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   1,
+   1
+  ],
+  "id": 4656485,
+  "parent": 4655612,
+  "properties": "4-4,1-1",
+  "row_range": [
+   4,
+   4
+  ]
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   287.110899,
+   48.064516129032256,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656486,
+  "page": 0,
+  "parent": 4656485
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   1,
+   1
+  ],
+  "id": 4656487,
+  "parent": 4655612,
+  "properties": "5-5,1-1",
+  "row_range": [
+   5,
+   5
+  ]
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   302.413542,
+   48.064516129032256,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656488,
+  "page": 0,
+  "parent": 4656487
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   1,
+   1
+  ],
+  "id": 4656489,
+  "parent": 4655612,
+  "properties": "6-6,1-1",
+  "row_range": [
+   6,
+   6
+  ]
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   317.716215,
+   48.064516129032256,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656490,
+  "page": 0,
+  "parent": 4656489
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   1,
+   1
+  ],
+  "id": 4656491,
+  "parent": 4655612,
+  "properties": "7-7,1-1",
+  "row_range": [
+   7,
+   7
+  ]
+ },
+ {
+  "bbox": [
+   193.09543850806452,
+   333.943245967742,
+   48.064516129032256,
+   13.458064516129014
+  ],
+  "category": "box",
+  "id": 4656492,
+  "page": 0,
+  "parent": 4656491
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   2,
+   2
+  ],
+  "id": 4656493,
+  "parent": 4655612,
+  "properties": "0-0,2-2",
+  "row_range": [
+   0,
+   0
+  ]
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   225.90014399999998,
+   55.754838709677415,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656494,
+  "page": 0,
+  "parent": 4656493
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   2,
+   2
+  ],
+  "id": 4656495,
+  "parent": 4655612,
+  "properties": "1-1,2-2",
+  "row_range": [
+   1,
+   1
+  ]
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   241.20284800000002,
+   55.754838709677415,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656496,
+  "page": 0,
+  "parent": 4656495
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   2,
+   2
+  ],
+  "id": 4656497,
+  "parent": 4655612,
+  "properties": "2-2,2-2",
+  "row_range": [
+   2,
+   2
+  ]
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   256.505491,
+   55.754838709677415,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656498,
+  "page": 0,
+  "parent": 4656497
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   2,
+   2
+  ],
+  "id": 4656499,
+  "parent": 4655612,
+  "properties": "3-3,2-2",
+  "row_range": [
+   3,
+   3
+  ]
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   271.808195,
+   55.754838709677415,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656500,
+  "page": 0,
+  "parent": 4656499
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   2,
+   2
+  ],
+  "id": 4656501,
+  "parent": 4655612,
+  "properties": "4-4,2-2",
+  "row_range": [
+   4,
+   4
+  ]
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   287.110899,
+   55.754838709677415,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656502,
+  "page": 0,
+  "parent": 4656501
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   2,
+   2
+  ],
+  "id": 4656503,
+  "parent": 4655612,
+  "properties": "5-5,2-2",
+  "row_range": [
+   5,
+   5
+  ]
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   302.413542,
+   55.754838709677415,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656504,
+  "page": 0,
+  "parent": 4656503
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   2,
+   2
+  ],
+  "id": 4656505,
+  "parent": 4655612,
+  "properties": "6-6,2-2",
+  "row_range": [
+   6,
+   6
+  ]
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   317.716215,
+   55.754838709677415,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656506,
+  "page": 0,
+  "parent": 4656505
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   2,
+   2
+  ],
+  "id": 4656507,
+  "parent": 4655612,
+  "properties": "7-7,2-2",
+  "row_range": [
+   7,
+   7
+  ]
+ },
+ {
+  "bbox": [
+   242.12124495967743,
+   333.943245967742,
+   55.754838709677415,
+   13.458064516129014
+  ],
+  "category": "box",
+  "id": 4656508,
+  "page": 0,
+  "parent": 4656507
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   3,
+   3
+  ],
+  "id": 4656509,
+  "parent": 4655612,
+  "properties": "0-0,3-3",
+  "row_range": [
+   0,
+   0
+  ]
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   225.90014399999998,
+   26.916129032258027,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656510,
+  "page": 0,
+  "parent": 4656509
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   3,
+   3
+  ],
+  "id": 4656511,
+  "parent": 4655612,
+  "properties": "1-1,3-3",
+  "row_range": [
+   1,
+   1
+  ]
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   241.20284800000002,
+   26.916129032258027,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656512,
+  "page": 0,
+  "parent": 4656511
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   3,
+   3
+  ],
+  "id": 4656513,
+  "parent": 4655612,
+  "properties": "2-2,3-3",
+  "row_range": [
+   2,
+   2
+  ]
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   256.505491,
+   26.916129032258027,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656514,
+  "page": 0,
+  "parent": 4656513
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   3,
+   3
+  ],
+  "id": 4656515,
+  "parent": 4655612,
+  "properties": "3-3,3-3",
+  "row_range": [
+   3,
+   3
+  ]
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   271.808195,
+   26.916129032258027,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656516,
+  "page": 0,
+  "parent": 4656515
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   3,
+   3
+  ],
+  "id": 4656517,
+  "parent": 4655612,
+  "properties": "4-4,3-3",
+  "row_range": [
+   4,
+   4
+  ]
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   287.110899,
+   26.916129032258027,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656518,
+  "page": 0,
+  "parent": 4656517
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   3,
+   3
+  ],
+  "id": 4656519,
+  "parent": 4655612,
+  "properties": "5-5,3-3",
+  "row_range": [
+   5,
+   5
+  ]
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   302.413542,
+   26.916129032258027,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656520,
+  "page": 0,
+  "parent": 4656519
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   3,
+   3
+  ],
+  "id": 4656521,
+  "parent": 4655612,
+  "properties": "6-6,3-3",
+  "row_range": [
+   6,
+   6
+  ]
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   317.716215,
+   26.916129032258027,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656522,
+  "page": 0,
+  "parent": 4656521
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   3,
+   3
+  ],
+  "id": 4656523,
+  "parent": 4655612,
+  "properties": "7-7,3-3",
+  "row_range": [
+   7,
+   7
+  ]
+ },
+ {
+  "bbox": [
+   298.8373739919355,
+   333.943245967742,
+   26.916129032258027,
+   13.458064516129014
+  ],
+  "category": "box",
+  "id": 4656524,
+  "page": 0,
+  "parent": 4656523
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   4,
+   4
+  ],
+  "id": 4656525,
+  "parent": 4655612,
+  "properties": "0-0,4-4",
+  "row_range": [
+   0,
+   0
+  ]
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   225.90014399999998,
+   47.14193548387095,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656526,
+  "page": 0,
+  "parent": 4656525
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   4,
+   4
+  ],
+  "id": 4656527,
+  "parent": 4655612,
+  "properties": "1-1,4-4",
+  "row_range": [
+   1,
+   1
+  ]
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   241.20284800000002,
+   47.14193548387095,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656528,
+  "page": 0,
+  "parent": 4656527
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   4,
+   4
+  ],
+  "id": 4656529,
+  "parent": 4655612,
+  "properties": "2-2,4-4",
+  "row_range": [
+   2,
+   2
+  ]
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   256.505491,
+   47.14193548387095,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656530,
+  "page": 0,
+  "parent": 4656529
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   4,
+   4
+  ],
+  "id": 4656531,
+  "parent": 4655612,
+  "properties": "3-3,4-4",
+  "row_range": [
+   3,
+   3
+  ]
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   271.808195,
+   47.14193548387095,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656532,
+  "page": 0,
+  "parent": 4656531
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   4,
+   4
+  ],
+  "id": 4656533,
+  "parent": 4655612,
+  "properties": "4-4,4-4",
+  "row_range": [
+   4,
+   4
+  ]
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   287.110899,
+   47.14193548387095,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656534,
+  "page": 0,
+  "parent": 4656533
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   4,
+   4
+  ],
+  "id": 4656535,
+  "parent": 4655612,
+  "properties": "5-5,4-4",
+  "row_range": [
+   5,
+   5
+  ]
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   302.413542,
+   47.14193548387095,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656536,
+  "page": 0,
+  "parent": 4656535
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   4,
+   4
+  ],
+  "id": 4656537,
+  "parent": 4655612,
+  "properties": "6-6,4-4",
+  "row_range": [
+   6,
+   6
+  ]
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   317.716215,
+   47.14193548387095,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656538,
+  "page": 0,
+  "parent": 4656537
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   4,
+   4
+  ],
+  "id": 4656539,
+  "parent": 4655612,
+  "properties": "7-7,4-4",
+  "row_range": [
+   7,
+   7
+  ]
+ },
+ {
+  "bbox": [
+   326.71479334677423,
+   333.943245967742,
+   47.14193548387095,
+   13.458064516129014
+  ],
+  "category": "box",
+  "id": 4656540,
+  "page": 0,
+  "parent": 4656539
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   5,
+   5
+  ],
+  "id": 4656541,
+  "parent": 4655612,
+  "properties": "0-0,5-5",
+  "row_range": [
+   0,
+   0
+  ]
+ },
+ {
+  "bbox": [
+   374.481049,
+   225.90014399999998,
+   55.961284999999975,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656542,
+  "page": 0,
+  "parent": 4656541
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   5,
+   5
+  ],
+  "id": 4656543,
+  "parent": 4655612,
+  "properties": "1-1,5-5",
+  "row_range": [
+   1,
+   1
+  ]
+ },
+ {
+  "bbox": [
+   374.481049,
+   241.20284800000002,
+   55.961284999999975,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656544,
+  "page": 0,
+  "parent": 4656543
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   5,
+   5
+  ],
+  "id": 4656545,
+  "parent": 4655612,
+  "properties": "2-2,5-5",
+  "row_range": [
+   2,
+   2
+  ]
+ },
+ {
+  "bbox": [
+   374.481049,
+   256.505491,
+   55.961284999999975,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656546,
+  "page": 0,
+  "parent": 4656545
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   5,
+   5
+  ],
+  "id": 4656547,
+  "parent": 4655612,
+  "properties": "3-3,5-5",
+  "row_range": [
+   3,
+   3
+  ]
+ },
+ {
+  "bbox": [
+   374.481049,
+   271.808195,
+   55.961284999999975,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656548,
+  "page": 0,
+  "parent": 4656547
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   5,
+   5
+  ],
+  "id": 4656549,
+  "parent": 4655612,
+  "properties": "4-4,5-5",
+  "row_range": [
+   4,
+   4
+  ]
+ },
+ {
+  "bbox": [
+   374.481049,
+   287.110899,
+   55.961284999999975,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656550,
+  "page": 0,
+  "parent": 4656549
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   5,
+   5
+  ],
+  "id": 4656551,
+  "parent": 4655612,
+  "properties": "5-5,5-5",
+  "row_range": [
+   5,
+   5
+  ]
+ },
+ {
+  "bbox": [
+   374.481049,
+   302.413542,
+   55.961284999999975,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656552,
+  "page": 0,
+  "parent": 4656551
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   5,
+   5
+  ],
+  "id": 4656553,
+  "parent": 4655612,
+  "properties": "6-6,5-5",
+  "row_range": [
+   6,
+   6
+  ]
+ },
+ {
+  "bbox": [
+   374.481049,
+   317.716215,
+   55.961284999999975,
+   14.904177000000004
+  ],
+  "category": "box",
+  "id": 4656554,
+  "page": 0,
+  "parent": 4656553
+ },
+ {
+  "category": "table_cell",
+  "col_range": [
+   5,
+   5
+  ],
+  "id": 4656555,
+  "parent": 4655612,
+  "properties": "7-7,5-5",
+  "row_range": [
+   7,
+   7
+  ]
+ },
+ {
+  "bbox": [
+   374.481049,
+   333.943245967742,
+   55.961284999999975,
+   13.458064516129014
+  ],
+  "category": "box",
+  "id": 4656556,
+  "page": 0,
+  "parent": 4656555
+ },
+ {
+  "category": "content_lines",
+  "id": 4656557,
+  "parent": 4655534
+ },
+ {
+  "category": "content_lines",
+  "id": 4656558,
+  "parent": 4656430
+ }
+]

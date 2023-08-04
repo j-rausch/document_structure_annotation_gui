@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1,
+    "category": "document",
+    "parent": null
+  },
+  {
+    "id": 2,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      121.425,
+      109.357,
+      352.425,
+      15.831
+    ],
+    "parent": 2
+  },
+  {
+    "id": 4,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 5,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      171.647,
+      144.286,
+      251.984,
+      18.968
+    ],
+    "parent": 4
+  },
+  {
+    "id": 6,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 7,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      224.051,
+      183.061,
+      147.172,
+      12.953
+    ],
+    "parent": 6
+  },
+  {
+    "id": 8,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 9,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      255.35,
+      211.841,
+      84.571,
+      12.953
+    ],
+    "parent": 8
+  },
+  {
+    "id": 10,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 11,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85.039,
+      260.785,
+      119.37,
+      15.831
+    ],
+    "parent": 10
+  },
+  {
+    "id": 12,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 13,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85.039,
+      290.094,
+      66.209,
+      10.32
+    ],
+    "parent": 12
+  },
+  {
+    "id": 14,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      101.31,
+      302.203,
+      387.52,
+      12.12
+    ],
+    "parent": 14
+  },
+  {
+    "id": 16,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 17,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      504.233,
+      290.094,
+      6.009,
+      10.32
+    ],
+    "parent": 16
+  },
+  {
+    "id": 18,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      504.813,
+      302.203,
+      5.424,
+      12.12
+    ],
+    "parent": 16
+  },
+  {
+    "id": 19,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 20,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85.039,
+      333.098,
+      85.089,
+      15.832
+    ],
+    "parent": 19
+  },
+  {
+    "id": 21,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 22,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85.039,
+      360.921,
+      425.202,
+      12.12
+    ],
+    "parent": 21
+  },
+  {
+    "id": 23,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 24,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85.039,
+      390.728,
+      68.969,
+      8.882
+    ],
+    "parent": 23
+  },
+  {
+    "id": 25,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 26,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85.039,
+      410.723,
+      425.195,
+      14.468
+    ],
+    "parent": 25
+  },
+  {
+    "id": 27,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85.039,
+      424.272,
+      373.531,
+      12.12
+    ],
+    "parent": 25
+  },
+  {
+    "id": 28,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 29,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      95.948,
+      437.821,
+      414.293,
+      12.12
+    ],
+    "parent": 28
+  },
+  {
+    "id": 30,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 31,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85.039,
+      451.37,
+      158.105,
+      12.12
+    ],
+    "parent": 30
+  },
+  {
+    "id": 32,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 33,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      264.953,
+      474.057,
+      41.758,
+      13.298
+    ],
+    "parent": 32
+  },
+  {
+    "id": 34,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 35,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      264.056,
+      470.871,
+      52.299,
+      40.713
+    ],
+    "parent": 34
+  },
+  {
+    "id": 36,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 37,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      300.284,
+      501.284,
+      28.046,
+      18.927
+    ],
+    "parent": 36
+  },
+  {
+    "id": 38,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 39,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      320.639,
+      515.056,
+      7.32,
+      8.634
+    ],
+    "parent": 38
+  },
+  {
+    "id": 40,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 41,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      496.374,
+      475.878,
+      13.863,
+      12.121
+    ],
+    "parent": 40
+  },
+  {
+    "id": 42,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 43,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      496.374,
+      496.005,
+      13.863,
+      12.12
+    ],
+    "parent": 42
+  },
+  {
+    "id": 44,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 45,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      95.948,
+      534.347,
+      295.229,
+      12.12
+    ],
+    "parent": 44
+  },
+  {
+    "id": 46,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 47,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      116.73,
+      554.405,
+      60.847,
+      8.278
+    ],
+    "parent": 46
+  },
+  {
+    "id": 48,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      117.044,
+      565.364,
+      241.302,
+      8.278
+    ],
+    "parent": 46
+  },
+  {
+    "id": 49,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      117.044,
+      576.323,
+      71.881,
+      8.277
+    ],
+    "parent": 46
+  },
+  {
+    "id": 50,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 51,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      211.506,
+      718.009,
+      172.265,
+      12.12
+    ],
+    "parent": 50
+  },
+  {
+    "id": 52,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 53,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      294.926,
+      783.007,
+      5.424,
+      12.12
+    ],
+    "parent": 52
+  },
+  {
+    "id": 54,
+    "category": "image",
+    "parent": 1
+  },
+  {
+    "id": 55,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      256.12,
+      603.777,
+      83.04,
+      100.08
+    ],
+    "parent": 54
+  },
+  {
+    "id": 56,
+    "category": "line",
+    "parent": 1
+  },
+  {
+    "id": 57,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      289.375,
+      502.638,
+      40.649,
+      0.0
+    ],
+    "parent": 56
+  },
+  {
+    "id": 58,
+    "category": "line",
+    "parent": 1
+  },
+  {
+    "id": 59,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      300.284,
+      504.82,
+      29.74,
+      0.0
+    ],
+    "parent": 58
+  },
+  {
+    "id": 60,
+    "category": "line",
+    "parent": 1
+  },
+  {
+    "id": 61,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      320.268,
+      515.368,
+      8.56,
+      0.0
+    ],
+    "parent": 60
+  },
+  {
+    "id": 62,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 63,
+    "category": "box",
+    "page": 1,
+    "bbox": [
+      85.039,
+      62.756,
+      59.78,
+      15.831
+    ],
+    "parent": 62
+  },
+  {
+    "id": 64,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 65,
+    "category": "box",
+    "page": 1,
+    "bbox": [
+      90.463,
+      90.579,
+      419.775,
+      12.12
+    ],
+    "parent": 64
+  },
+  {
+    "id": 66,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 67,
+    "category": "box",
+    "page": 1,
+    "bbox": [
+      107.371,
+      104.128,
+      40.982,
+      12.12
+    ],
+    "parent": 66
+  },
+  {
+    "id": 68,
+    "category": "paragraph",
+    "parent": 1
+  },
+  {
+    "id": 69,
+    "category": "box",
+    "page": 1,
+    "bbox": [
+      294.926,
+      783.007,
+      5.424,
+      12.12
+    ],
+    "parent": 68
+  }
+]

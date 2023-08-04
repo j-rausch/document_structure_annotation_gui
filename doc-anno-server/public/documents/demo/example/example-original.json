@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "category": "meta",
+    "expanded": true,
+    "parent": null
+  },
+  {
+    "id": 1533654915688,
+    "category": "subject",
+    "expanded": true,
+    "parent": 1
+  },
+  {
+    "id": 1533654921494,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      120,
+      107,
+      357,
+      20
+    ],
+    "parent": 1533654915688
+  },
+  {
+    "id": 1533655153690,
+    "category": "title",
+    "expanded": true,
+    "parent": 1
+  },
+  {
+    "id": 1533655158123,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      175,
+      142,
+      251,
+      23
+    ],
+    "parent": 1533655153690
+  },
+  {
+    "id": 1533655178195,
+    "category": "author",
+    "expanded": true,
+    "parent": 1
+  },
+  {
+    "id": 1533655181330,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      223,
+      181,
+      151,
+      17
+    ],
+    "parent": 1533655178195
+  },
+  {
+    "id": 1533655227336,
+    "category": "date",
+    "expanded": true,
+    "parent": 1
+  },
+  {
+    "id": 1533655230192,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      252,
+      209,
+      93,
+      18
+    ],
+    "parent": 1533655227336
+  },
+  {
+    "id": 1533655720818,
+    "category": "page_nr",
+    "expanded": true,
+    "parent": 1
+  },
+  {
+    "id": 1533655724807,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      249,
+      779,
+      100,
+      20
+    ],
+    "parent": 1533655720818
+  },
+  {
+    "id": 1533655763124,
+    "category": "page_nr",
+    "expanded": true,
+    "parent": 1
+  },
+  {
+    "id": 1533656769236,
+    "category": "box",
+    "page": 1,
+    "bbox": [
+      252,
+      778,
+      100,
+      20
+    ],
+    "parent": 1533655763124
+  },
+  {
+    "id": 1533656783857,
+    "category": "bibliography",
+    "expanded": true,
+    "parent": 1
+  },
+  {
+    "id": 1533656788534,
+    "category": "box",
+    "page": 1,
+    "bbox": [
+      78,
+      58,
+      437,
+      69
+    ],
+    "parent": 1533656783857
+  },
+  {
+    "id": 1533655258060,
+    "category": "document",
+    "expanded": true,
+    "parent": null
+  },
+  {
+    "id": 1533655266289,
+    "category": "index",
+    "expanded": true,
+    "parent": 1533655258060
+  },
+  {
+    "id": 1533655291446,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      83,
+      262,
+      430,
+      60
+    ],
+    "parent": 1533655266289
+  },
+  {
+    "id": 1533655332264,
+    "category": "section",
+    "expanded": true,
+    "parent": 1533655258060
+  },
+  {
+    "id": 1533655358326,
+    "category": "heading",
+    "expanded": true,
+    "parent": 1533655332264
+  },
+  {
+    "id": 1533655337362,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      84,
+      332,
+      100,
+      20
+    ],
+    "parent": 1533655358326
+  },
+  {
+    "id": 1533655351749,
+    "category": "paragraph",
+    "expanded": true,
+    "parent": 1533655332264
+  },
+  {
+    "id": 1533655369787,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      84,
+      358,
+      429,
+      20
+    ],
+    "parent": 1533655351749
+  },
+  {
+    "id": 1533655398636,
+    "category": "section",
+    "expanded": true,
+    "parent": 1533655332264
+  },
+  {
+    "id": 1533655409912,
+    "category": "heading",
+    "expanded": true,
+    "parent": 1533655398636
+  },
+  {
+    "id": 1533655415439,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      83,
+      386,
+      100,
+      20
+    ],
+    "parent": 1533655409912
+  },
+  {
+    "id": 1533655433705,
+    "category": "paragraph",
+    "expanded": true,
+    "parent": 1533655398636
+  },
+  {
+    "id": 1533655439927,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      82,
+      410,
+      433,
+      12
+    ],
+    "parent": 1533655433705
+  },
+  {
+    "id": 1533722626350,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      83,
+      425,
+      432,
+      13
+    ],
+    "parent": 1533655433705
+  },
+  {
+    "id": 1533655473019,
+    "category": "paragraph",
+    "expanded": true,
+    "parent": 1533655398636
+  },
+  {
+    "id": 1533655480373,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      83,
+      438,
+      434,
+      12
+    ],
+    "parent": 1533655473019
+  },
+  {
+    "id": 1533722670485,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85,
+      452,
+      430,
+      14
+    ],
+    "parent": 1533655473019
+  },
+  {
+    "id": 1533655522317,
+    "category": "equation",
+    "expanded": true,
+    "parent": 1533655398636
+  },
+  {
+    "id": 1533655535363,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      245,
+      471,
+      100,
+      20
+    ],
+    "parent": 1533655522317
+  },
+  {
+    "id": 1533655524247,
+    "category": "equation",
+    "expanded": true,
+    "parent": 1533655398636
+  },
+  {
+    "id": 1533655547765,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      246,
+      493,
+      100,
+      37
+    ],
+    "parent": 1533655524247
+  },
+  {
+    "id": 1533655526044,
+    "category": "paragraph",
+    "expanded": true,
+    "parent": 1533655398636
+  },
+  {
+    "id": 1533655575896,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      85,
+      534,
+      425,
+      15
+    ],
+    "parent": 1533655526044
+  },
+  {
+    "id": 1533655649532,
+    "category": "code",
+    "expanded": true,
+    "parent": 1533655398636
+  },
+  {
+    "id": 1533655657101,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      113,
+      552,
+      356,
+      36
+    ],
+    "parent": 1533655649532
+  },
+  {
+    "id": 1533655676702,
+    "category": "figure",
+    "expanded": true,
+    "parent": 1533655398636
+  },
+  {
+    "id": 1533655681339,
+    "category": "image",
+    "expanded": true,
+    "parent": 1533655676702
+  },
+  {
+    "id": 1533655691029,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      248,
+      602,
+      100,
+      107
+    ],
+    "parent": 1533655681339
+  },
+  {
+    "id": 1533655684666,
+    "category": "figure_caption",
+    "expanded": true,
+    "parent": 1533655676702
+  },
+  {
+    "id": 1533655702591,
+    "category": "box",
+    "page": 0,
+    "bbox": [
+      206,
+      713,
+      184,
+      20
+    ],
+    "parent": 1533655684666
+  }
+]
